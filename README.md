@@ -25,7 +25,7 @@ Welcome to the **NLU Paper Reading Group** repository. This repo is the central 
 
 ## 📋 How a Session Works  
 
-1. **Paper selection** – anyone can suggest papers in `suggested_papers.md`
+1. **Paper selection** – anyone can suggest papers in `paper_suggestions.md`
 2. **Pre‑meeting prep**
    - All participants read the paper **before** the meeting.  
 4. **Meeting** –  
