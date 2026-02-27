@@ -28,11 +28,12 @@ Welcome to the **NLU Paper Reading Group** repository. This repo is the central 
 1. **Paper selection** – anyone can suggest papers in `paper_suggestions.md`
 2. **Pre‑meeting prep**
    - All participants read the paper **before** the meeting.  
-4. **Meeting** –  
+3. **Meeting**
    - We simply discuss the paper.
    - Someone takes notes.
    - At the end, we determine the paper for the next session.
-5. **Post‑meeting**   
+4. **Post‑meeting**
+   - The person who took notes uploads them to this git repo.   
 
 ---  
 
