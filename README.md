@@ -14,7 +14,7 @@ Welcome to the **NLU Paper Reading Group** repository. This repo is the central 
 ## 🗓️ Schedule  
 
 - **Frequency:** Every **4 weeks**  
-- **Next Meeting:** *March 17*  
+- **Next Meeting:** *March 17, 11 AM*  
 - **Location:** *NOP*    
 
 ---
