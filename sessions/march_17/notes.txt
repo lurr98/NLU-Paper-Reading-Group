@@ -1,1 +1,22 @@
 Link to paper: https://aclanthology.org/2023.cl-4.2/
+
+This paper introduces a structured framework to obtain human annotations for Natural Language Generation regarding their faithfulness to given sources &rarr; Attributable to Identified Sources (AIS)
+
+What we liked:
+
+- very structured approach
+- presented framework and ablations can help other researchers on a budget as they can rely on a proven method
+
+What we didn't like:
+
+- task seems trivial
+- very little insights
+- definitions are very rigorous but this does not seem necessary
+- the annotation procedure is only described very brielfy which also raises questions about ethics in working with the annotators
+- esp. expert agreement is not that high which is not sufficiently discussed
+- annotators guidelines are very long
+
+What we can take for our own research:
+
+- multi-step approach (first interpretability, then AIS) can easily be implemented
+- insights on likert scale are very valuable
