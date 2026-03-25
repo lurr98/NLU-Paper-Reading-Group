@@ -19,10 +19,6 @@ Welcome to the **NLU Paper Reading Group** repository. This repo is the central 
 
 ---
 
-## 📂 Repository Structure  
-
----
-
 ## 📋 How a Session Works  
 
 1. **Paper selection** – anyone can suggest papers in `paper_suggestions.md`
